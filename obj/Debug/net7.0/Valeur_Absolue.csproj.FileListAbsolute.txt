@@ -1,0 +1,15 @@
+C:\Mon_Code\Valeur_Absolue\bin\Debug\net7.0\Valeur_Absolue.exe
+C:\Mon_Code\Valeur_Absolue\bin\Debug\net7.0\Valeur_Absolue.deps.json
+C:\Mon_Code\Valeur_Absolue\bin\Debug\net7.0\Valeur_Absolue.runtimeconfig.json
+C:\Mon_Code\Valeur_Absolue\bin\Debug\net7.0\Valeur_Absolue.dll
+C:\Mon_Code\Valeur_Absolue\bin\Debug\net7.0\Valeur_Absolue.pdb
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\Valeur_Absolue.csproj.AssemblyReference.cache
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\Valeur_Absolue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\Valeur_Absolue.AssemblyInfoInputs.cache
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\Valeur_Absolue.AssemblyInfo.cs
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\Valeur_Absolue.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\Valeur_Absolue.dll
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\refint\Valeur_Absolue.dll
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\Valeur_Absolue.pdb
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\Valeur_Absolue.genruntimeconfig.cache
+C:\Mon_Code\Valeur_Absolue\obj\Debug\net7.0\ref\Valeur_Absolue.dll
